@@ -1,0 +1,26 @@
+{
+  "name": "javascript-tests-practice",
+  "version": "1.0.0",
+  "description": "Learning how to use Jest to do testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ediful/javascript-tests-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ediful/javascript-tests-practice/issues"
+  },
+  "homepage": "https://github.com/Ediful/javascript-tests-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.0.0",
+    "jest": "^27.4.7"
+  }
+}
